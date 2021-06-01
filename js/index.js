@@ -1,10 +1,5 @@
 var getNewQuote = function() {
-var quotes =[
-  { 
-    text: "You're like Hitler, except...Hitler cared about Germany, or something.", 
-    source: "Rick",
-    img: "https://img00.deviantart.net/1f9e/i/2017/115/d/7/png_rick_and_morty_ohne_schatierung_by_lalingla-db72d6x.png"
-  }, 
+var quotes =[ 
    { 
     text: "I know that new situations can be intimidating. You lookin' around and it's all scary and different, but y'know... meeting them head-on, charging into 'em like a bull—that's how we grow as people.", 
     source: "Rick",
